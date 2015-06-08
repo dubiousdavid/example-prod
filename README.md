@@ -5,5 +5,5 @@ Turn examples to comment blocks. Should be added to your project's primary depen
 ## Installation
 
 ```clojure
-[com.2tothe8th/example "0.3.0"]
+[com.2tothe8th/example "0.4.0"]
 ```

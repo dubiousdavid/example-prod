@@ -1,4 +1,4 @@
-(defproject com.2tothe8th/example "0.3.0"
+(defproject com.2tothe8th/example "0.4.0"
   :description "Turn examples to comment blocks."
   :url "https://github.com/dubiousdavid/example-prod"
   :license {:name "Eclipse Public License"
